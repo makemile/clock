@@ -1,0 +1,23 @@
+{
+  "name": "clock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makemile/clock.git"
+  },
+  "keywords": [
+    "js",
+    "css"
+  ],
+  "author": "Kengya Moncada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/makemile/clock/issues"
+  },
+  "homepage": "https://github.com/makemile/clock#readme"
+}
